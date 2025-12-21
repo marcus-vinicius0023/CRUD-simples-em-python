@@ -1,0 +1,1 @@
+This is a simple project, with a purpoose of having a CRUD to manage product data in database.
